@@ -1,0 +1,14 @@
+name: yaml_matlab
+description: "Pure-MATLAB YAML 1.2 reader and writer (no Java, no MEX)."
+version: "0.1.0"
+license: MIT
+homepage: "https://github.com/magland/yaml_matlab"
+repository: "https://github.com/magland/yaml_matlab"
+dependencies: []
+
+addpaths:
+  - path: "."
+
+builds:
+  - architectures: [any]
+    test_script: test_yaml_matlab.m
