@@ -6,7 +6,7 @@ homepage: "https://github.com/magland/yaml_matlab"
 repository: "https://github.com/magland/yaml_matlab"
 dependencies: []
 
-addpaths:
+paths:
   - path: "."
 
 builds:

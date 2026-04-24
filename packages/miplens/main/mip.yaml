@@ -6,7 +6,7 @@ homepage: "https://github.com/magland/miplens"
 repository: "https://github.com/magland/miplens"
 dependencies: []
 
-addpaths:
+paths:
   - path: "."
 
 builds:
