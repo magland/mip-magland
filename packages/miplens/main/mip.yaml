@@ -1,6 +1,6 @@
 name: miplens
 description: "AI-generated overviews of MATLAB packages for the MIP ecosystem"
-version: main
+version:
 license: Apache-2.0
 homepage: "https://github.com/magland/miplens"
 repository: "https://github.com/magland/miplens"
